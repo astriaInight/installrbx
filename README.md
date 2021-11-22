@@ -4,7 +4,7 @@ This script is intended for use on Ubuntu 20.04/21.04, but may work on other deb
 
 ## How to use
 ### 1. Download installrbx.sh
-You can download the installrbx.sh file from the releases.
+You can download the installrbx.sh file from [releases](https://github.com/astriaInight/installrbx/releases).
 
 ### 2. Allow the file to run
 ![image](https://github.com/astriaInight/installrbx/blob/main/images/allowexecute.png?raw=true)
