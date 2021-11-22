@@ -19,4 +19,8 @@ Open the terminal inside of the same directory as the sh file. Right click on bl
 ![image](https://github.com/astriaInight/installrbx/blob/main/images/runfile.png?raw=true)
 Type './installrbx' and press enter to run the command.
 
-You may be prompted to give the script sudo permissions.
+![image](https://github.com/astriaInight/installrbx/blob/main/images/sudoperms.png?raw=true)
+You may be prompted to give the script sudo permissions. This will be used to install the wine and grapejuice packages.
+Type your user's password and press enter to start the installer. The password will not show while you are typing it.
+
+### 5. Finishing the installation
