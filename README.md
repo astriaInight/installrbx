@@ -13,18 +13,22 @@ Open the file properties and enable 'Allow executing file as program' in the per
 
 ### 3. Open the terminal
 ![image](https://github.com/astriaInight/installrbx/blob/main/images/openterminal.png?raw=true)
+<br>
 Open the terminal inside of the same directory as the sh file. Right click on blank space and select 'Open in terminal'.
 
 ### 4. Run the script
 ![image](https://github.com/astriaInight/installrbx/blob/main/images/runfile.png?raw=true)
+<br>
 Type './installrbx' and press enter to run the command.
 
 ![image](https://github.com/astriaInight/installrbx/blob/main/images/sudoperms.png?raw=true)
+<br>
 You may be prompted to give the script sudo permissions. This will be used to install the wine and grapejuice packages.
 Type your user's password and press enter to start the installer. The password will not show while you are typing it.
 
 ### 5. Finishing the installation
 ![image](https://github.com/astriaInight/installrbx/blob/main/images/installerfinished.png?raw=true)
+<br>
 Once the installer finishes, a file with extra instructions will open.
 Follow the instructions, sign in to the Roblox client and Roblox Studio, and restart your device.
 Part of it mentions editing the FFlags to improve performance. We will get to that in step 6.
@@ -32,5 +36,6 @@ Part of it mentions editing the FFlags to improve performance. We will get to th
 ### 6. Editing FFlags for better performance
 Open grapejuice and select 'Roblox FFlag editor'. This may open an instance of Roblox Studio. Do not close it until you have saved the FFlag edits.
 ![image](https://github.com/astriaInight/installrbx/blob/main/images/fflagedits.png?raw=true)
+<br>
 Enable these two options, click 'Save', and close both the FFlag editor and Roblox Studio.
 You should now have significantly improved performance in Roblox.
