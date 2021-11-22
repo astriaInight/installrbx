@@ -26,8 +26,11 @@ Type your user's password and press enter to start the installer. The password w
 ### 5. Finishing the installation
 ![image](https://github.com/astriaInight/installrbx/blob/main/images/installerfinished.png?raw=true)
 Once the installer finishes, a file with extra instructions will open.
-Follow the instructions and restart your device.
+Follow the instructions, sign in to the Roblox client and Roblox Studio, and restart your device.
 Part of it mentions editing the FFlags to improve performance. We will get to that in step 6.
 
 ### 6. Editing FFlags for better performance
-Open grapejuice
+Open grapejuice and select 'Roblox FFlag editor'. This may open an instance of Roblox Studio. Do not close it until you have saved the FFlag edits.
+![image](https://github.com/astriaInight/installrbx/blob/main/images/fflagedits.png?raw=true)
+Enable these two options, click 'Save', and close both the FFlag editor and Roblox Studio.
+You should now have significantly improved performance in Roblox.
