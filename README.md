@@ -16,3 +16,7 @@ Open the file properties and enable 'Allow executing file as program' in the per
 Open the terminal inside of the same directory as the sh file. Right click on blank space and select 'Open in terminal'.
 
 ### 4. Run the script
+![image](https://github.com/astriaInight/installrbx/blob/main/images/runfile.png?raw=true)
+Type './installrbx' and press enter to run the command.
+
+You may be prompted to give the script sudo permissions.
