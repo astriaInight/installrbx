@@ -35,6 +35,7 @@ Part of it mentions editing the FFlags to improve performance. We will get to th
 
 ### 6. Editing FFlags for better performance
 Open grapejuice and select 'Roblox FFlag editor'. This may open an instance of Roblox Studio. Do not close it until you have saved the FFlag edits.
+<br>
 ![image](https://github.com/astriaInight/installrbx/blob/main/images/fflagedits.png?raw=true)
 <br>
 Enable these two options, click 'Save', and close both the FFlag editor and Roblox Studio.
