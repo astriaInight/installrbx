@@ -66,7 +66,7 @@ clear
 
 # Run python mouse patch and delete py file after
 echo "Patching Roblox mouse..."
-sudo apt install p7zip-full
+sudo apt install p7zip-full -y
 curl https://pastebin.com/raw/5SeVb005 > "mousepatch.py"
 python3 mousepatch.py
 rm mousepatch.py
