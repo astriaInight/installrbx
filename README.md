@@ -24,3 +24,10 @@ You may be prompted to give the script sudo permissions. This will be used to in
 Type your user's password and press enter to start the installer. The password will not show while you are typing it.
 
 ### 5. Finishing the installation
+![image](https://github.com/astriaInight/installrbx/blob/main/images/installerfinished.png?raw=true)
+Once the installer finishes, a file with extra instructions will open.
+Follow the instructions and restart your device.
+Part of it mentions editing the FFlags to improve performance. We will get to that in step 6.
+
+### 6. Editing FFlags for better performance
+Open grapejuice
