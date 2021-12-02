@@ -28,7 +28,7 @@ sudo dnf config-manager --add-repo https://dl.winehq.org/wine-builds/fedora/35/w
 
 echo " "
 echo "Installing wine-staging..."
-sudo dnf install winehq-staging
+sudo dnf install winehq-staging -y
 
 clear
 
@@ -44,7 +44,7 @@ sudo mv winetricks /usr/local/bin/
 clear
 
 echo "Installing grapjuice dependencies..."
-sudo dnf install git python3-devel python3-pip cairo-devel gobject-introspection-devel cairo-gobject-devel dbus-glib-devel make xdg-utils
+sudo dnf install git python3-devel python3-pip cairo-devel gobject-introspection-devel cairo-gobject-devel dbus-glib-devel make xdg-utils -y
 
 echo "Installing grapejuice..."
 git clone https://gitlab.com/brinkervii/grapejuice.git
