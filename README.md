@@ -1,6 +1,6 @@
 # installrbx
 An SH script for installing Roblox using Grapejuice.
-This script is intended for use on Ubuntu 20.04/21.04, but may work on other debian based distros too.
+Has scripts for Ubuntu and Fedora at the moment.
 
 ## How to use
 ### 1. Download installrbx.sh
